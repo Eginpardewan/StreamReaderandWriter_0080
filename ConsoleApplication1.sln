@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "streamreaderwriter", "Conso
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ioFileWithPath", "ioFileWithPath\ioFileWithPath.vcxproj", "{036563FE-B789-471C-88CD-953728721517}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExeptionStandard", "ExeptionStandard\ExeptionStandard.vcxproj", "{ACC1A7E8-8D77-433F-AAA5-0C33E74E1DC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{036563FE-B789-471C-88CD-953728721517}.Release|x64.Build.0 = Release|x64
 		{036563FE-B789-471C-88CD-953728721517}.Release|x86.ActiveCfg = Release|Win32
 		{036563FE-B789-471C-88CD-953728721517}.Release|x86.Build.0 = Release|Win32
+		{ACC1A7E8-8D77-433F-AAA5-0C33E74E1DC2}.Debug|x64.ActiveCfg = Debug|x64
+		{ACC1A7E8-8D77-433F-AAA5-0C33E74E1DC2}.Debug|x64.Build.0 = Debug|x64
+		{ACC1A7E8-8D77-433F-AAA5-0C33E74E1DC2}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACC1A7E8-8D77-433F-AAA5-0C33E74E1DC2}.Debug|x86.Build.0 = Debug|Win32
+		{ACC1A7E8-8D77-433F-AAA5-0C33E74E1DC2}.Release|x64.ActiveCfg = Release|x64
+		{ACC1A7E8-8D77-433F-AAA5-0C33E74E1DC2}.Release|x64.Build.0 = Release|x64
+		{ACC1A7E8-8D77-433F-AAA5-0C33E74E1DC2}.Release|x86.ActiveCfg = Release|Win32
+		{ACC1A7E8-8D77-433F-AAA5-0C33E74E1DC2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
