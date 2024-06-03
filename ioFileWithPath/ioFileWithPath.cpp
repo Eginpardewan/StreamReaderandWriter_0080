@@ -16,6 +16,7 @@ int main() {
 	//menunjuk ke subuah nama file
 	outfile.open(NamaFile + ".txt", ios::out);
 
+
 	cout << ">= Menulis file, \'q\' untuk keluar" << endl;
 
 	//unlimited loop untuk menulis
@@ -30,6 +31,7 @@ int main() {
 		//menulis dan memasukan nilai dari 'baris' ke dalam file
 		outfile << baris << endl;
 	}
+
 
 	//selesai dalam menulis sekarang tutup filenya
 	outfile.close();
